@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan input value sesuai requirement di field Email</description>
+   <name>From Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27831b2d-8266-45b6-9ae2-99c0f87d5f3b</testCaseGuid>
+</TestCaseEntity>

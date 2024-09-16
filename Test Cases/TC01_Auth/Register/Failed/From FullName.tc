@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan input value di field Full Name berupa special characters</description>
+   <name>From FullName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6169213-6e53-4b61-85f0-f7000fce4944</testCaseGuid>
+</TestCaseEntity>

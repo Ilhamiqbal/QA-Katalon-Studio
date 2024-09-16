@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Button CreateAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82bbe5eb-8841-4f7b-b1b0-967be3521c9a</testCaseGuid>
+</TestCaseEntity>

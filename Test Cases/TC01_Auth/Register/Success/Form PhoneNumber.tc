@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User menginput phone number menggunakan angka</description>
+   <name>Form PhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e1e8c16-1bb2-4c77-a7d0-e72fc57258c2</testCaseGuid>
+</TestCaseEntity>

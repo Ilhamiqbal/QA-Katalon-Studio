@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mencoba menggunakan fiture login menggunakan google yang aktif</description>
+   <name>Signin With Google</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>711e1eef-c0ea-4633-a8ff-88b32be689fe</testCaseGuid>
+</TestCaseEntity>

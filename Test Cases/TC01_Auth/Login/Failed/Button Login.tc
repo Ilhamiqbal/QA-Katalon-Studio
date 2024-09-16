@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengklik bar login setelah mengisi email dan password yang tidak sesuai atau belum terdaftar</description>
+   <name>Button Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f8622c0-88b2-42e1-9f65-75ae6d598e37</testCaseGuid>
+</TestCaseEntity>

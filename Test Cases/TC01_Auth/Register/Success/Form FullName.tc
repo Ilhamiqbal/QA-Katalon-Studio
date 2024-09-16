@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan input value di field Full Name</description>
+   <name>Form FullName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f03b3947-2d7c-4a13-9174-f90e619d3fa9</testCaseGuid>
+</TestCaseEntity>

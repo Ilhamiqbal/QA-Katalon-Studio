@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengulang kembali password yang sudah diisi diatasnya</description>
+   <name>Form ConfirmPasswod</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9aab581-2e95-47e3-b787-ac77617496f3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User memilih tanggal ,bulan dan tahun yang sesuai dengan tanggal lahirnya</description>
+   <name>Form DateOfBirth</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3978924a-d4cd-47f4-a1e9-106de87e1eab</testCaseGuid>
+</TestCaseEntity>

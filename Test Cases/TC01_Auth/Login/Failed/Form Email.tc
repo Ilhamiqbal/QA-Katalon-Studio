@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengisi inputan email yang salah ex : tidak memakai titik (.) melainkan koma (,)</description>
+   <name>Form Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff437bbb-a2a4-4953-896a-09c5d9be76ab</testCaseGuid>
+</TestCaseEntity>

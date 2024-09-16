@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengklik bar login setelah mengisi email dan password yang sudah didaftarkan terlebih dahulu</description>
+   <name>Button Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1a40ac6-5742-417b-bf7b-0b1190c19af0</testCaseGuid>
+</TestCaseEntity>

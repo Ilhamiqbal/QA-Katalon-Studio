@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengisi email sesuai email&#xd;
+yang didaftarkan diweb enigma</description>
+   <name>Form Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb85fed2-5334-4e83-b0b6-7e440707d589</testCaseGuid>
+</TestCaseEntity>

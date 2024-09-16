@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengklik button create account setelah selesai mengisi semua form yang ada dihalam registrasi</description>
+   <name>Button Create Account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb51cfca-6c5d-4e80-bff6-7a285a7fe68a</testCaseGuid>
+</TestCaseEntity>
